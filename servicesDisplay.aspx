@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
     <div>
-    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Deliverable2/Default.aspx">Return Home</asp:HyperLink>
+    <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Default.aspx">Return Home</asp:HyperLink>
         <br />
     </div>
     <asp:Button ID="Button1" runat="server" onclick="Button1_Click" 

@@ -9,11 +9,11 @@
 <body>
     <form id="form1" runat="server">
     <div>
-        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/Deliverable2/servicesDisplay.aspx">Services and Service Categories</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink1" runat="server" NavigateUrl="~/servicesDisplay.aspx">Services and Service Categories</asp:HyperLink>
         <br />
-        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/Deliverable2/customerDisplay.aspx">Customers and Admins</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink2" runat="server" NavigateUrl="~/customerDisplay.aspx">Customers and Admins</asp:HyperLink>
         <br />
-        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/Deliverable2/accountsDisplay.aspx">Accounts</asp:HyperLink>
+        <asp:HyperLink ID="HyperLink3" runat="server" NavigateUrl="~/accountsDisplay.aspx">Accounts</asp:HyperLink>
     </div>
     </form>
 </body>
